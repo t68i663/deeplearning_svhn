@@ -1,0 +1,6 @@
+model_checkpoint_path: "epoch-30-70800"
+all_model_checkpoint_paths: "epoch-22-51920"
+all_model_checkpoint_paths: "epoch-24-56640"
+all_model_checkpoint_paths: "epoch-26-61360"
+all_model_checkpoint_paths: "epoch-28-66080"
+all_model_checkpoint_paths: "epoch-30-70800"
