@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/t68i663/videoprocess.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/t68i663/video_process.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\LKC\PycharmProjects" />
