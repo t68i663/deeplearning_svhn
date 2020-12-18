@@ -1,14 +1,14 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="boston_airbnb_listings" type="PLAIN_TEXT" />
       <mapping pattern="node_type" type="PLAIN_TEXT" />
       <mapping pattern="testshp" type="PLAIN_TEXT" />
-      <mapping ext="pyd" type="PLAIN_TEXT" />
-      <mapping ext="desktop-n3gdvau" type="PLAIN_TEXT" />
       <mapping ext="npz" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
+      <mapping ext="pyd" type="PLAIN_TEXT" />
+      <mapping ext="desktop-n3gdvau" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
