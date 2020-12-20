@@ -4,10 +4,10 @@
       <webServer id="d23f8432-8814-46ff-9359-eddf6f64660a" name="likaicheng_2020@115.25.142.110:22" url="http:///">
         <fileTransfer accessType="SFTP" host="115.25.142.110" port="22" sshConfigId="b1b142fc-9a3f-424e-9bfd-1422e0a076d9" sshConfig="likaicheng_2020@115.25.142.110:22 password" />
       </webServer>
-      <webServer id="d23f8432-8814-46ff-9359-eddf6f64660a" name="likaicheng_2020@115.25.142.110:22" url="http:///">
+      <webServer id="d23f8432-8814-46ff-9359-eddf6f64660a" name="likaicheng_2020@115.25.142.110:22 (1)" url="http:///">
         <fileTransfer accessType="SFTP" host="115.25.142.110" port="22" sshConfigId="b1b142fc-9a3f-424e-9bfd-1422e0a076d9" sshConfig="likaicheng_2020@115.25.142.110:22 password" />
       </webServer>
-      <webServer id="d23f8432-8814-46ff-9359-eddf6f64660a" name="likaicheng_2020@115.25.142.110:22" url="http:///">
+      <webServer id="d23f8432-8814-46ff-9359-eddf6f64660a" name="likaicheng_2020@115.25.142.110:22 (2)" url="http:///">
         <fileTransfer accessType="SFTP" host="115.25.142.110" port="22" sshConfigId="b1b142fc-9a3f-424e-9bfd-1422e0a076d9" sshConfig="likaicheng_2020@115.25.142.110:22 password" />
       </webServer>
     </option>
