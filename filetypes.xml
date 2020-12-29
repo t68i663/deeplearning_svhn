@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="grid" type="AUTO_DETECTED" />
       <mapping pattern="boston_airbnb_listings" type="PLAIN_TEXT" />
       <mapping pattern="node_type" type="PLAIN_TEXT" />
       <mapping pattern="testshp" type="PLAIN_TEXT" />
