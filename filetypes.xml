@@ -12,6 +12,7 @@
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
       <mapping ext="desktop-n3gdvau" type="PLAIN_TEXT" />
+      <mapping ext="mat" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
