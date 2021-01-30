@@ -11,7 +11,7 @@
         <fileTransfer accessType="SFTP" host="115.25.142.110" port="22" sshConfigId="67fb668d-1167-40b5-8ec9-63eece9acfd1" sshConfig="likaicheng_2020@115.25.142.110:22 password" />
       </webServer>
       <webServer id="097dc975-dc9c-46ce-9c22-fcc2f7ed6a99" name="likaicheng_2020@115.25.142.110:22 password">
-        <fileTransfer accessType="SFTP" host="115.25.142.110" port="22" sshConfigId="67fb668d-1167-40b5-8ec9-63eece9acfd1" sshConfig="likaicheng_2020@115.25.142.110:22 password" />
+        <fileTransfer rootFolder="/home/likaicheng_2020" accessType="SFTP" host="115.25.142.110" port="22" sshConfigId="67fb668d-1167-40b5-8ec9-63eece9acfd1" sshConfig="likaicheng_2020@115.25.142.110:22 password" />
       </webServer>
       <webServer id="cb6ca0ee-2635-414c-a428-f695772fab91" name="likaicheng_ijcai@115.25.142.113:22" url="http:///">
         <fileTransfer accessType="SFTP" host="115.25.142.113" port="22" sshConfigId="5be0da8a-7300-4be4-85d3-5f8f0124b6cb" sshConfig="likaicheng_ijcai@115.25.142.113:22 password" />
