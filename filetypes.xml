@@ -14,7 +14,9 @@
       <mapping pattern="SSDG-MSU-HKBU-3D" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-HKBU-2D3D" type="AUTO_DETECTED" />
       <mapping pattern="Resnet-MSU-HKBU-3D" type="AUTO_DETECTED" />
+      <mapping pattern="Resnet-HKBU-to-MSU-CSMADWO" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-CSMADWO-3D" type="AUTO_DETECTED" />
+      <mapping pattern="Resnet-Oulu-to-MSU-CSMADWO" type="AUTO_DETECTED" />
       <mapping pattern="boston_airbnb_listings" type="PLAIN_TEXT" />
       <mapping pattern="node_type" type="PLAIN_TEXT" />
       <mapping pattern="testshp" type="PLAIN_TEXT" />
