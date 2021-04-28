@@ -5,6 +5,7 @@
       <mapping pattern="les" type="AUTO_DETECTED" />
       <mapping pattern="grid" type="AUTO_DETECTED" />
       <mapping pattern="Spoof" type="AUTO_DETECTED" />
+      <mapping pattern="SSDG-MSU-3DMAD" type="AUTO_DETECTED" />
       <mapping pattern="boston_airbnb_listings" type="PLAIN_TEXT" />
       <mapping pattern="node_type" type="PLAIN_TEXT" />
       <mapping pattern="testshp" type="PLAIN_TEXT" />
