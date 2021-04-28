@@ -7,11 +7,13 @@
       <mapping pattern="SSDG-MSU-CSMADWO-2D3D" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-CSMAD" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-HKBU" type="AUTO_DETECTED" />
+      <mapping pattern="Resnet-MSU-HKBU-2D" type="AUTO_DETECTED" />
       <mapping pattern="les" type="AUTO_DETECTED" />
       <mapping pattern="Spoof" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-3DMAD" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-HKBU-3D" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-HKBU-2D3D" type="AUTO_DETECTED" />
+      <mapping pattern="Resnet-MSU-HKBU-3D" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-CSMADWO-3D" type="AUTO_DETECTED" />
       <mapping pattern="boston_airbnb_listings" type="PLAIN_TEXT" />
       <mapping pattern="node_type" type="PLAIN_TEXT" />
