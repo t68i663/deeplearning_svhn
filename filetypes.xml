@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern="STDN-3DMAD-HKBU-HTER" type="AUTO_DETECTED" />
       <mapping pattern="STDN-3DMAD-HKBU" type="AUTO_DETECTED" />
-      <mapping pattern="SSDG-MSU-CSMADWO" type="AUTO_DETECTED" />
       <mapping pattern="grid" type="AUTO_DETECTED" />
+      <mapping pattern="SSDG-MSU-CSMADWO" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-CSMADWO-2D3D" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-CSMAD" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-HKBU" type="AUTO_DETECTED" />
