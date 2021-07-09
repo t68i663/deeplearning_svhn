@@ -3,11 +3,13 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="STDN-3DMAD-HKBU-HTER" type="AUTO_DETECTED" />
-      <mapping pattern="SSDG-MSU-CSMADWO" type="AUTO_DETECTED" />
-      <mapping pattern="grid" type="AUTO_DETECTED" />
       <mapping pattern="STDN-3DMAD-HKBU" type="AUTO_DETECTED" />
+      <mapping pattern="grid" type="AUTO_DETECTED" />
+      <mapping pattern="SSDG-MSU-CSMADWO" type="AUTO_DETECTED" />
+      <mapping pattern="STDN" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-CSMADWO-2D3D" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-CSMAD" type="AUTO_DETECTED" />
+      <mapping pattern="STDN-Merge-HKBU" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-HKBU" type="AUTO_DETECTED" />
       <mapping pattern="Resnet-MSU-HKBU-2D" type="AUTO_DETECTED" />
       <mapping pattern="les" type="AUTO_DETECTED" />
