@@ -2,10 +2,10 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="d23f8432-8814-46ff-9359-eddf6f64660a" name="likaicheng_2020@115.25.142.110:22 (1)" url="http:///">
-        <fileTransfer rootFolder="/home/suyating_2020" accessType="SFTP" host="115.25.142.111" port="22" sshConfigId="b5b887ff-ce9d-49d1-ae23-b2ecd5d18003" sshConfig="suyating_2020@115.25.142.111:22 password" />
+        <fileTransfer rootFolder="/home/likaicheng_ijcai" accessType="SFTP" host="115.25.142.113" port="22" sshConfigId="5be0da8a-7300-4be4-85d3-5f8f0124b6cb" sshConfig="likaicheng_ijcai@115.25.142.113:22 password" />
       </webServer>
       <webServer id="d23f8432-8814-46ff-9359-eddf6f64660a" name="likaicheng_2020@115.25.142.110:22 (2)" url="http:///">
-        <fileTransfer accessType="SFTP" sshConfigId="b1b142fc-9a3f-424e-9bfd-1422e0a076d9" sshConfig="suyating_2020@115.25.142.111:22 password" />
+        <fileTransfer accessType="SFTP" host="115.25.142.111" port="22" sshConfigId="b5b887ff-ce9d-49d1-ae23-b2ecd5d18003" sshConfig="suyating_2020@115.25.142.111:22 password" />
       </webServer>
       <webServer id="7e7d765c-d197-46a7-9b69-d44509dd08f3" name="likaicheng_2020@115.25.142.110:22 (3)" url="http:///">
         <fileTransfer accessType="SFTP" host="115.25.142.110" port="22" sshConfigId="67fb668d-1167-40b5-8ec9-63eece9acfd1" sshConfig="likaicheng_2020@115.25.142.110:22 password" />
