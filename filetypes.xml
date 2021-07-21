@@ -8,11 +8,13 @@
       <mapping pattern="STDN-3DMAD-HKBU" type="AUTO_DETECTED" />
       <mapping pattern="STDN" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-CSMADWO-2D3D" type="AUTO_DETECTED" />
+      <mapping pattern="STDN_WMCA_LEAVE_CUSTOM_MASK_EER" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-CSMAD" type="AUTO_DETECTED" />
       <mapping pattern="STDN-Merge-HKBU" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-HKBU" type="AUTO_DETECTED" />
       <mapping pattern="Resnet-MSU-HKBU-2D" type="AUTO_DETECTED" />
       <mapping pattern="les" type="AUTO_DETECTED" />
+      <mapping pattern="STDN_WMCA_LEAVE_CUSTOM_MASK" type="AUTO_DETECTED" />
       <mapping pattern="Spoof" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-3DMAD" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-HKBU-3D" type="AUTO_DETECTED" />
