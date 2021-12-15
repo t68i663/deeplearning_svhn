@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="fba3b76f-ffc0-4907-a75b-632606070892" name="DEP">
-        <fileTransfer rootFolder="/home/likaicheng_2020" accessType="SFTP" host="115.25.142.110" port="22" sshConfigId="67fb668d-1167-40b5-8ec9-63eece9acfd1" sshConfig="likaicheng_2020@115.25.142.110:22 password">
+        <fileTransfer rootFolder="/home/huangziyue" accessType="SFTP" host="115.236.52.125" port="22" sshConfigId="b0aff6eb-6e54-4834-a7e6-6c08ed5d3b90" sshConfig="huangziyue@115.236.52.125:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
