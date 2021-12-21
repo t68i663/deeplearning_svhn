@@ -23,9 +23,6 @@
       <mapping pattern="grid" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-3DMAD" type="AUTO_DETECTED" />
       <mapping pattern="SSDG-MSU-CSMADWO-2D3D" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="node_type" type="PLAIN_TEXT" />
       <mapping pattern="boston_airbnb_listings" type="PLAIN_TEXT" />
       <mapping pattern="testshp" type="PLAIN_TEXT" />
@@ -33,8 +30,9 @@
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
       <mapping ext="desktop-n3gdvau" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
       <mapping ext="mat" type="tsconfig" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
